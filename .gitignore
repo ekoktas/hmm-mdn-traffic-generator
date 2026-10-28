@@ -1,0 +1,23 @@
+# data (see data/README.md)
+data/*.csv
+data/raw/
+
+# outputs of the pipeline
+runs/
+sweeps_val/
+eval/
+logs/
+figs_data/
+bench_fbvideo/
+timing_results.jsonl
+long_gaps.csv
+data_check.csv
+paper_tables.tex
+results_summary.md
+interpretability_summary.txt
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

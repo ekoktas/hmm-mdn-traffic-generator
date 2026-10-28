@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Packet-level traffic generator with heavy-tailed payload and inter-arrival distributions"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Koktas
+    given-names: Enes
+    affiliation: Karlsruhe Institute of Technology
+  - family-names: Rost
+    given-names: Peter
+    affiliation: Karlsruhe Institute of Technology
+preferred-citation:
+  type: article
+  title: "Packet-Level Traffic Modeling with Heavy-Tailed Payload and Inter-Arrival Distributions for Digital Twins"
+  authors:
+    - family-names: Koktas
+      given-names: Enes
+    - family-names: Rost
+      given-names: Peter
+  journal: "arXiv preprint arXiv:2512.15432"
+  year: 2026
+  doi: 10.48550/arXiv.2512.15432
+  url: "https://arxiv.org/abs/2512.15432"
